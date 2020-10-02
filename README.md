@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://profile-summary-for-github.com/user/codebudy5247">
   <img align="left" height="300px" width="100%" src="https://github-readme-stats.vercel.app/api?theme=light&username=codebudy5247&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Parikshit's GitHub stats"/>
 
