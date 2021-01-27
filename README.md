@@ -8,5 +8,4 @@
 - 👯 I’m looking to collaborate on My project Repo Local-Book-Store
 - 💬 Ask me about Anything
 - 📫 How to reach me: a.shekhar5247@gmail.com
-- ⚡ Fun fact: 
 
