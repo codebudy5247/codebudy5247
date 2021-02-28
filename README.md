@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a Dev Blog Site
 - 🌱 I’m currently learning ReactJs , PostgreSQL 
-- 👯 I’m looking to collaborate on My project Repo Local-Book-Store
+# - 👯 I’m looking to collaborate on My project Repo Local-Book-Store
 - 💬 Ask me about Anything
 - 📫 How to reach me: a.shekhar5247@gmail.com
 
