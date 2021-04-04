@@ -3,8 +3,8 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Aditya!
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 
-- 🔭 I’m currently working on a Dev Blog Site
-- 🌱 I’m currently learning ReactJs , PostgreSQL 
+- 🔭 I’m currently working on a Social Media App
+- 🌱 I’m currently learning PostgreSQL ,Typescript
 
 - 💬 Ask me about Anything
 - 📫 How to reach me: a.shekhar5247@gmail.com
