@@ -3,10 +3,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Aditya!
 <br>
 
+<a href="https://github.com/codebudy5247/github-readme-stats">
 <p align="left">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/new.gif" height=340/>
 </p>
+</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebudy5247" alt="codebudy5247" /> </p>
 <a href="https://github.com/codebudy5247/github-readme-stats">
