@@ -32,13 +32,12 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## Find me around the web 🌍
 
-- [Instagram](https://www.instagram.com/teen_developer/)
-- [LinkedIn](https://www.linkedin.com/in/saviomartin)
-- [Twitter](https://twitter.com/saviomartin7)
-- [Hashnode](https://hashnode.com/@saviomartin)
-- [Dev.to](https://dev.to/saviomartin)
+
+## Find me around the web 🌍
+- [LinkedIn](https://www.linkedin.com/in/aditya-shekhar-937974166)
+- [Twitter](https://twitter.com/@adityas44310622)
+
 
 ## My Github Status 🦸
 
@@ -50,7 +49,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebudy5247&layout=compact&theme=radical" />
 </a>
 
-## My Trending Repos 💻
+## My Projects 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Eshop&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/Eshop)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blogs-App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/Blogs-App)
