@@ -72,12 +72,12 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Eshop&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://online-shop22.herokuapp.com/)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blogs-App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://nifty-jones-0a775a.netlify.app/)]
+[![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blogs-App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://nifty-jones-0a775a.netlify.app/)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blog-App-API&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/Blog-App-API)]<p align="left">
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blog-App-API&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/Blog-App-API)]<p align="left">
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=MERN-Auth-Boilerplate-Context-JWT&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/MERN-Auth-Boilerplate-Context-JWT)]
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=contact-keeper-api&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/contact-keeper-api)]
+[![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=contact-keeper-api&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/contact-keeper-api)] -->
 
 </p>
