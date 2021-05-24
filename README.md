@@ -68,7 +68,6 @@
 </a>
 
 ## My Projects 💻
-<p align="left">
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Eshop&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://online-shop22.herokuapp.com/)
 
@@ -80,4 +79,4 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=contact-keeper-api&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/contact-keeper-api)] -->
 
-</p>
+
