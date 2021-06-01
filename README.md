@@ -69,7 +69,7 @@
 
 ## My Projects 💻
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Eshop&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://online-shop22.herokuapp.com/)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Ecommerce-web-app&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://online-shop22.herokuapp.com/)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blogs-App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://nifty-jones-0a775a.netlify.app/)
 
