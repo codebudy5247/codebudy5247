@@ -2,6 +2,9 @@
 
 > ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Aditya! I love building full-stack web applications and mobile apps.
 
+ ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
+
+ 
 <a href="https://github.com/codebudy5247/github-readme-stats">
 <p align="left">
   <img src="https://github.com/ShyamPraveenSingh/ShyamPraveenSingh/blob/master/me.gif" width=400 height=340>
@@ -70,7 +73,6 @@
 ## My Projects 💻
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Eshop&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://online-shop22.herokuapp.com/)
-
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blogs-App&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://nifty-jones-0a775a.netlify.app/)
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blog-App-API&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/Blog-App-API)]<p align="left">
