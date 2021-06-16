@@ -1,6 +1,5 @@
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=49D3DF&lines=I'm+a+FullStack+Web+Developer;I'm+a+Backend+Developer;I'm+a+Frontend+Developer)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebudy5247" alt="codebudy5247" /> </p>
-<br>
 > ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Aditya! I love building full-stack web applications and mobile apps.
 
  ![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=programming&theme=dracula&animation=default&layout=zues&font=Redressed)
