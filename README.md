@@ -2,7 +2,7 @@
 
 > ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Aditya! I love building full-stack web applications and mobile apps.[My Website]()
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebudy5247" alt="codebudy5247" /> </p>
  
 <a href="https://github.com/codebudy5247/github-readme-stats">
 <p align="left">
