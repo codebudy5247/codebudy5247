@@ -53,16 +53,6 @@
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-## Find me around the web 🌍
-
-## - [Linkedin](https://www.linkedin.com/in/aditya-shekhar-937974166)
-## - [Twitter](https://twitter.com/@adityas44310622)
-
-## My Github Status 🦸
-
-## ![](https://github-readme-stats.vercel.app/api?username=codebudy5247&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blog-App-API&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/Blog-App-API)]<p align="left">
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=MERN-Auth-Boilerplate-Context-JWT&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/MERN-Auth-Boilerplate-Context-JWT)]
