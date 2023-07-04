@@ -55,18 +55,12 @@
 
 ## Find me around the web 🌍
 
-- [Linkedin](https://www.linkedin.com/in/aditya-shekhar-937974166)
-- [Twitter](https://twitter.com/@adityas44310622)
+## - [Linkedin](https://www.linkedin.com/in/aditya-shekhar-937974166)
+## - [Twitter](https://twitter.com/@adityas44310622)
 
 ## My Github Status 🦸
 
-![](https://github-readme-stats.vercel.app/api?username=codebudy5247&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-
-
-<a href="https://github.com/codebudy5247/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebudy5247&layout=compact&theme=radical" />
-</a>
+## ![](https://github-readme-stats.vercel.app/api?username=codebudy5247&show_icons=true&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 
 <!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=codebudy5247&repo=Blog-App-API&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/codebudy5247/Blog-App-API)]<p align="left">
